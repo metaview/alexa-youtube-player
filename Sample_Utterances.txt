@@ -1,0 +1,14 @@
+PlayAudio starte {Name}
+PlayAudio {Name} starten
+PlayAudio und starte {Name}
+PlayAudio und {Name} starten
+PlayAudio spiele {Name}
+PlayAudio {Name} spielen
+PlayAudio und spiele {Name}
+PlayAudio und {Name} spielen
+PlayAudio zeige {Name}
+PlayAudio {Name} zeigen
+PlayAudio und zeige {Name}
+PlayAudio und {Name} zeigen
+PlayAudio mit {Name}
+
